@@ -17,7 +17,7 @@ Dedicated and organized professional, good communication skills, can pass on kno
 - Express.js (Node.js, Javascript) <br>
 - PostgreSQL, MySQL, OracleDB and MongoDB (nosql) <br>
 - GIT  <br>
-- AWS S3, Jenkins and Docker. <br>
+- AWS S3, Docker, Jenkins and Github Actions  <br>
 - Postman, Swagger. <br>
 - API development in monolithic architecture and microservices. <br>
 - Angular.js and Angular 7+ <br>
