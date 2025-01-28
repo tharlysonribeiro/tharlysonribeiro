@@ -1,30 +1,25 @@
-### Hi
-# [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thjrribeiro/)](https://www.linkedin.com/in/thjrribeiro/) [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=whitelink=https://dev.to/tharlyson)](https://dev.to/tharlyson) 
-
-<p align="left"> 
-Hi, my name is Tharlyson Ribeiro! I've been dedicating my time learning about Microservices. <br>
-Dedicated and organized professional, good communication skills, can pass on knowledge within the team, experience with full remote work.
-
-💻 Systems Analyst at [Matera](https://matera.com/)<br>
-📚 Studying Microservices, Clean Code and Cloud Technologies <br>
-👨‍💻 Graduating in Systems Analysis and Development at [UNICV](https://unifcv.edu.br/)<br>
-🐱‍💻 Analyst with more than 3 years of experience in the development of technological solutions.
-<br>
+<p align="center">
+  <img src="assets/tars.gif" alt="cooper" width="500"/>
 </p>
 
-### My skills: <br/>
-- Spring Framework (Java) <br>
-- Express.js (Node.js, Javascript) <br>
-- PostgreSQL, MySQL, OracleDB and MongoDB (nosql) <br>
-- GIT  <br>
-- AWS S3, Docker, Jenkins and Github Actions  <br>
-- Postman, Swagger. <br>
-- API development in monolithic architecture and microservices. <br>
-- Angular.js and Angular 7+ <br>
-- Working in the agile Scrum methodology <br>
-- HTML, CSS, Bootstrap and Tailwind CSS.
- 
- I’m currently learning Kotlin, React, Messenger (Kafka)
- 
-- Fun fact: I worked with php for 7 years.
+I'm [Tharlyson Ribeiro](https://www.linkedin.com/in/thjrribeiro/), a dedicated software developer with over 6 years of experience in solution development. I'm always looking to learn and currently focusing on Microservices, Distributed Systems and Clean Code.
 
+---
+
+- *Systems Analyst at [Matera](https://matera.com/)*
+- *Graduate in Systems Analysis and Development*
+- *Experienced in remote work and team work*
+
+### Technologies
+- *Git*
+- *AWS*: S3, SQS, SNS;
+- *Backend*: Java (Spring Boot, Spring Data, Spring Security), Node.js (JS/TS);
+- *Frontend*: React.js, TailwindCSS, Angular 12+, Flutter;  
+- *Databases*: MySQL, PostgreSQL, OracleDB, MongoDB;
+- *Infrastructure*: Docker, Kubernetes, Jenkins, Keycloak (OAuth2, OpenID Connect);
+- *Events*: Kafka, RabbitMQ;
+- *API development*: Swagger (documentation & codegen), Monolithic and Microservices;
+- *Agile*: Scrum/Kanban;
+- *Learning*: Kotlin, DDD.
+
+---
