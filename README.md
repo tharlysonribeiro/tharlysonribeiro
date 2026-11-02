@@ -4,5 +4,15 @@
 
 ## About
 
-Backend software developer focused on **Java and Spring Boot**, working with **distributed systems, microservices, and event-driven architectures**. Experience with **cloud-native environments**, **Kafka**, **AWS**, **Docker**, and **Kubernetes**. Strong focus on clean code, reliable systems, and knowledge sharing.
+Engineering Tech Lead and backend developer focused on production systems, incident management, and high-volume instant payments. I work mainly with **Java**, **Spring Boot**, **distributed systems**, **Kafka**, **AWS**, **Docker**, and **Kubernetes**.
+
+I lead engineering teams, refine work into clear and actionable tasks, and write practical development guides that promote sound engineering practices. I also work with AI-assisted development, including building MCP servers and improving developer workflows.
+
+## What I’m Building
+
+- [Agent Toolkit](https://github.com/tharlysonribeiro/agent-toolkit) — reusable plugins, skills, hooks, and MCP setup for Codex and Claude Code.
+
+## Connect
+
+[LinkedIn](https://br.linkedin.com/in/thjrribeiro)
 
